@@ -1379,11 +1379,11 @@ a:hover,a:active {
     margin:0
 }
 .site-title a {
-    color:#464646;
+    color:#62cdff;
     font-weight:400
 }
 .site-title a:hover {
-    color:orange
+    color:rgb(255, 166, 0)
 }
 .site-title img {
     height:40px;
@@ -1476,7 +1476,7 @@ a:hover,a:active {
 .site-top ul li a {
     padding:10px 0;
     display:inline-block;
-    color:#666
+    color:rgb(118, 205, 255)
 }
 .site-top ul li a:hover {
     color:orange
@@ -1667,7 +1667,7 @@ a:hover,a:active {
     width:70%
 }
 .entry-title a {
-    color:#504e4e
+    color:#74d4fa
 }
 .entry-title a:hover {
     color:orange
@@ -2220,7 +2220,7 @@ h1.page-title {
     font-weight:400;
     border:1px dashed #ddd;
     padding:10px 15px;
-    color:#828282;
+    color:#464646;
     margin-bottom:30px
 }
 h1.page-title.mb- {
