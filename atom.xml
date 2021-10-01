@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="nanjolno.net/"/>
-  <updated>2021-09-30T23:17:21.747Z</updated>
+  <updated>2021-10-01T08:41:45.735Z</updated>
   <id>nanjolno.net/</id>
   
   <author>
@@ -17,24 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="nanjolno.net/2021/09/30/hello-world/"/>
-    <id>nanjolno.net/2021/09/30/hello-world/</id>
-    <published>2021-09-30T23:17:21.747Z</published>
-    <updated>2021-09-30T23:17:21.747Z</updated>
+    <title>test01</title>
+    <link href="nanjolno.net/2021/12/12/hello-world/"/>
+    <id>nanjolno.net/2021/12/12/hello-world/</id>
+    <published>2021-12-13T03:16:01.000Z</published>
+    <updated>2021-10-01T08:41:45.735Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      进行一个占位
     
     </summary>
     
+      <category term="生活" scheme="nanjolno.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="web" scheme="nanjolno.net/tags/web/"/>
+    
+      <category term="悦读" scheme="nanjolno.net/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
